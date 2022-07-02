@@ -1,2 +1,3 @@
-# conditioned-cooperative-training
-Pytorch code for paper Conditioned Cooperative Training for Semi-supervised Weapon Detection.
+# Conditioned Cooperative Training for Semi-supervised Weapon Detection
+
+The code will be published soon.
